@@ -1,6 +1,7 @@
 
 
-<span>
+<h3 align="center">🎯 My Stack</h3>
+<p align="center">
    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -8,20 +9,10 @@
    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white"/>
    <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
-<span>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyju777&show_icons=true&theme=radical)
-<!--
-**lyju777/lyju777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+   
+<h3 align="center">📊 Github Stats</h3>
+<div align="center">
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyju777&show_icons=true&theme=radical)
+</div>
