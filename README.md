@@ -1,6 +1,6 @@
 
 <p align="center">
-   <h3>🎯 Skills</h3>
+   <h3>🎯 Skills </h3>
    <div>
       <!-- plastic, flat, flat-square, for-the-badge, social -->
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
