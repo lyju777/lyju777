@@ -11,15 +11,18 @@
    </div>
    
    <div>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue2-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
       <img src="https://img.shields.io/badge/Element_ui-409EFF?style=for-the-badge&logo=&logoColor=white"/>
    </div>
 <div>
 
    <h3>📚Study & Experience </h3>
-   
+ <div>
+   <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
+</div>
 <div align="center">
    
 </div>
