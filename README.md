@@ -21,6 +21,8 @@
  <div>
    <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
+   <img src="https://img.shields.io/badge/quasar-4695EB?style=for-the-badge&logo=quasar&logoColor=white"/>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 </div>
