@@ -8,18 +8,16 @@
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Element_ui-409EFF?style=for-the-badge&logo=&logoColor=white"/>
    </div>
    
    <div>
-      <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue2-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/quasar-4695EB?style=for-the-badge&logo=quasar&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
    </div>
 <div>
+
 
 <div align="center">
    
