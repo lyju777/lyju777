@@ -8,14 +8,12 @@
       <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
    </div>
    <div>
+       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/s3bucket-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
       <img src="https://img.shields.io/badge/cloudfront-F38020?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
    </div>
 <div>
 
